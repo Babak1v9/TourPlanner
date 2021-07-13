@@ -1,0 +1,4 @@
+D:\Lukas\Programmieren\C#\TourPlanner\DataAccessLayer\bin\Debug\netcoreapp3.1\Models.dll
+D:\Lukas\Programmieren\C#\TourPlanner\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Lukas\Programmieren\C#\TourPlanner\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs

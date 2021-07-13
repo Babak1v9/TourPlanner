@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+wBxPzFXSdDiqRwtTZyaVD6Vklc1UYC5YyUwgRiYjbjcty4yFBZTaU966wcsuZFxrzZhhp0XeLR4hQZpZyRbw==",
+  "success": true,
+  "projectFilePath": "D:\\Lukas\\Programmieren\\C#\\TourPlanner\\TourPlanner\\TourPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

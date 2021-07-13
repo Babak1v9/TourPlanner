@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourPlanner", "TourPlanner.csproj", "{D45C98A6-6156-4381-B0F5-3A6151EA1F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{CF51B82C-AF78-4BE4-A095-63275BA7D045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{BCB4C019-E539-4427-91CB-990992548DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45C98A6-6156-4381-B0F5-3A6151EA1F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45C98A6-6156-4381-B0F5-3A6151EA1F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45C98A6-6156-4381-B0F5-3A6151EA1F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45C98A6-6156-4381-B0F5-3A6151EA1F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF51B82C-AF78-4BE4-A095-63275BA7D045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF51B82C-AF78-4BE4-A095-63275BA7D045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF51B82C-AF78-4BE4-A095-63275BA7D045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF51B82C-AF78-4BE4-A095-63275BA7D045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB4C019-E539-4427-91CB-990992548DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB4C019-E539-4427-91CB-990992548DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB4C019-E539-4427-91CB-990992548DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB4C019-E539-4427-91CB-990992548DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325ED137-B153-4761-9377-AB32C2280EE4}
+	EndGlobalSection
+EndGlobal
