@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEU4DTEEqsTg2aTJm6+C+Fr4DM8dxvyVgBVPRPUnOQTup8d+cX5Yu7b9ph4pIEB7Imy/1kcC4jyKtlz1TDZ9kQ==",
+  "success": true,
+  "projectFilePath": "D:\\Lukas\\Programmieren\\C#\\TourPlanner\\ViewModels\\ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\Lukas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

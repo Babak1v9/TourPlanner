@@ -1,0 +1,14 @@
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\Models.dll
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Lukas\Programmieren\C#\TourPlanner\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

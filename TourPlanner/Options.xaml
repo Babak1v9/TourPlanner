@@ -1,0 +1,64 @@
+﻿<Window x:Class="TourPlanner.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViewModels"
+        mc:Ignorable="d"
+        Title="Options" Height="450" Width="800">
+    <Window.DataContext>
+        <local:OptionsVM></local:OptionsVM>
+    </Window.DataContext>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid>
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="300"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" Margin="5" FontSize="12" Text="RouteType"></TextBlock>
+
+            <ComboBox Grid.Row="0" Grid.Column="1" SelectedIndex="{Binding SelectedRouteType}" Width="290" Height="25" Margin="5">
+                <ComboBoxItem>fastest</ComboBoxItem>
+                <ComboBoxItem>shortest</ComboBoxItem>
+                <ComboBoxItem>pepdestrian</ComboBoxItem>
+                <ComboBoxItem>bicycle</ComboBoxItem>
+            </ComboBox>
+
+            <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" Margin="5" FontSize="12" Text="Unit"></TextBlock>
+
+            <ComboBox Grid.Row="1" Grid.Column="1" SelectedIndex="{Binding SelectedUnit}" Width="290" Height="25" Margin="5">
+                <ComboBoxItem>Kilometers</ComboBoxItem>
+                <ComboBoxItem>Miles</ComboBoxItem>
+            </ComboBox>
+
+            <TextBlock Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" Margin="5" FontSize="12" Text="Language"></TextBlock>
+
+            <ComboBox Grid.Row="2" Grid.Column="1" SelectedIndex="{Binding SelectedLanguage}" Width="290" Height="25" Margin="5">
+                <ComboBoxItem>en_US</ComboBoxItem>
+                <ComboBoxItem>en_GB</ComboBoxItem>
+                <ComboBoxItem>fr_CA</ComboBoxItem>
+                <ComboBoxItem>fr_FR</ComboBoxItem>
+                <ComboBoxItem>de_DE</ComboBoxItem>
+                <ComboBoxItem>es_ES</ComboBoxItem>
+                <ComboBoxItem>es_MX</ComboBoxItem>
+                <ComboBoxItem>ru_RU</ComboBoxItem>
+            </ComboBox>
+
+        </Grid>
+
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Margin="5" Content="Save" Command="{Binding SaveCommand}"></Button>
+            <Button Margin="5" Content="Cancel" Command="{Binding CancelCommand}"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

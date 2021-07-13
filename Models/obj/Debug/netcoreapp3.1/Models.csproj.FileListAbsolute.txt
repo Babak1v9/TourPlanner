@@ -1,0 +1,8 @@
+D:\Lukas\Programmieren\C#\TourPlanner\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Lukas\Programmieren\C#\TourPlanner\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Lukas\Programmieren\C#\TourPlanner\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Lukas\Programmieren\C#\TourPlanner\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Lukas\Programmieren\C#\TourPlanner\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Lukas\Programmieren\C#\TourPlanner\Models\obj\Debug\netcoreapp3.1\Models.pdb

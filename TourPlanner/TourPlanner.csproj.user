@@ -7,7 +7,39 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddTour.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddTourLog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditTour.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditTourLog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Options.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddTour.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddTourLog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditTour.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditTourLog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Options.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

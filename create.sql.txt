@@ -1,0 +1,20 @@
+create extension if not exists "uuid-ossp";
+
+create table Tour_data (
+	tour_id				uuid primary key default uuid_generate_v4(),
+	tour_name			varchar,
+	description			varchar,
+	route_information	varchar,
+	tour_distance		varchar
+);
+
+create table Tour_log (
+	
+	log_id				uuid primary key default uuid_generate_v4(),
+	date				varchar,
+	report				varchar,
+	duration			varchar,
+	distance			varchar,
+	rating				varchar,
+	average_speed		varchar
+);

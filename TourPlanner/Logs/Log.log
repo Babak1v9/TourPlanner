@@ -1,0 +1,11 @@
+﻿2021-07-13 22:32:08,118 INFO TourPlanner.Commands.CopyTourCommand.Execute - Tour (Name:IT-SP [Copy]) copied successfully.
+2021-07-13 22:32:09,575 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour IT-SP [Copy] deleted successfully.
+2021-07-13 22:32:11,703 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour IT-SP [Copy] deleted successfully.
+2021-07-13 22:32:25,030 INFO TourPlanner.Commands.ExportJsonCommand.Execute - JSON exported successfully.
+2021-07-13 22:32:27,952 INFO TourPlanner.Commands.ImportJsonCommand.Execute - JSON imported successfully.
+2021-07-13 22:32:30,030 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour test deleted successfully.
+2021-07-13 22:32:31,726 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour ENG-DNK deleted successfully.
+2021-07-13 22:32:32,907 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour Wien Linz Fastest deleted successfully.
+2021-07-13 22:32:34,267 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour sadfads deleted successfully.
+2021-07-13 22:32:35,245 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour test deleted successfully.
+2021-07-13 22:32:36,181 INFO TourPlanner.Commands.DeleteTourCommand.Execute - Tour ENG-DNK deleted successfully.

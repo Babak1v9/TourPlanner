@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\App.xaml
-11407045341
+6164987645
 
-3-1233169557
-192-1533232326
-MainWindow.xaml;
+40-1508069783
+212100655223
+AddTour.xaml;AddTourLog.xaml;EditTour.xaml;EditTourLog.xaml;MainWindow.xaml;Options.xaml;
 
-True
+False
 

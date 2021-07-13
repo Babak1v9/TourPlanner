@@ -1,0 +1,4 @@
+D:\Lukas\Programmieren\C#\TourPlanner\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
+D:\Lukas\Programmieren\C#\TourPlanner\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+D:\Lukas\Programmieren\C#\TourPlanner\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+D:\Lukas\Programmieren\C#\TourPlanner\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
