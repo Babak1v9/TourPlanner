@@ -12,7 +12,7 @@ The database should listen to localhost (127.0.0.1).
 - PW = swe
 
 ## Functionality
-Requirements(https://github.com/Babak1v9/TourPlanner/blob/master/TourPlanner_exercise_2021_03_08.pdf)
+[Requirements](https://github.com/Babak1v9/TourPlanner/blob/master/TourPlanner_exercise_2021_03_08.pdf)
 
 ## Time Effort
 ~ 30 hours
