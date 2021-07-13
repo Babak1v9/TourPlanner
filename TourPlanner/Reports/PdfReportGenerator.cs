@@ -9,7 +9,7 @@ using Models;
 using Paragraph = iText.Layout.Element.Paragraph;
 
 namespace TourPlanner.Reports {
-    class PdfReportGenerator { 
+    public class PdfReportGenerator { 
 
         private string dirPath;
 
@@ -43,7 +43,7 @@ namespace TourPlanner.Reports {
                     .SetMarginBottom(3));
 
             int counter = 1;
-            Paragraph row;
+
             foreach (TourLog tourLog in logs) {
                 pdfDoc.Add(new Paragraph(
                     $"{counter}. Tour: {tour.name} Date: {tourLog.date} (Rating: {tourLog.rating}): " +
@@ -82,7 +82,7 @@ namespace TourPlanner.Reports {
                     .SetMarginBottom(3));
 
             int counter = 1;
-            Paragraph row;
+
             foreach (TourLog tourLog in logs) {
                 document.Add(new Paragraph(
                     $"{counter}. Date: {tourLog.date} Rating: {tourLog.rating}): " +

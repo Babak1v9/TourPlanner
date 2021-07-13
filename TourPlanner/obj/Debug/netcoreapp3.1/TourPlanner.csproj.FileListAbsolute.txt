@@ -53,3 +53,4 @@ D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\obj\Debug\netcoreapp3.1\TourPl
 D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\obj\Debug\netcoreapp3.1\TourPlanner.pdb
 D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\obj\Debug\netcoreapp3.1\TourPlanner.genruntimeconfig.cache
 D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\bin\Debug\netcoreapp3.1\TourPlanner.dll.config
+D:\Lukas\Programmieren\C#\TourPlanner\TourPlanner\bin\Debug\netcoreapp3.1\nunit.framework.dll
